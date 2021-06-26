@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kleit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kleit\\.nuget\\packages"
+    ]
+  }
+}
